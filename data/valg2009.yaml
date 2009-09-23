@@ -1,0 +1,355 @@
+--- 
+16: 
+  :parties: 
+    :PP: 1026
+    :NKP: 107
+    :V: 5871
+    :MDG: 834
+    :A: 66607
+    :H: 22583
+    :SV: 12855
+    :FRP: 31881
+    :Andre: 0
+    :R: 2056
+    :DEM: 219
+    :SP: 11811
+    :KSP: 230
+    :KRF: 6190
+    :KYST: 262
+  :mandates: 10
+  :name: "Sor-Trondelag fylke"
+5: 
+  :parties: 
+    :PP: 837
+    :V: 3104
+    :MDG: 351
+    :A: 47756
+    :H: 11639
+    :SV: 5363
+    :FRP: 18262
+    :Andre: 0
+    :R: 610
+    :DEM: 49
+    :SP: 12910
+    :KSP: 175
+    :KRF: 3175
+    :KYST: 57
+  :mandates: 7
+  :name: Oppland fylke
+11: 
+  :parties: 
+    :PP: 1385
+    :NKP: 61
+    :V: 10055
+    :MDG: 571
+    :A: 59161
+    :H: 44281
+    :SV: 10613
+    :FRP: 60035
+    :Andre: 0
+    :R: 908
+    :DEM: 127
+    :SP: 13144
+    :KSP: 679
+    :DLF: 122
+    :KRF: 25545
+    :KYST: 223
+  :mandates: 13
+  :name: Rogaland fylke
+17: 
+  :parties: 
+    :V: 2114
+    :MDG: 125
+    :A: 31457
+    :H: 6462
+    :SV: 4696
+    :FRP: 12621
+    :Andre: 0
+    :R: 447
+    :DEM: 37
+    :SP: 11249
+    :KSP: 128
+    :KRF: 2916
+    :KYST: 114
+  :mandates: 6
+  :name: "Nord-Trondelag fylke"
+6: 
+  :parties: 
+    :NKP: 99
+    :V: 4315
+    :MDG: 407
+    :A: 52706
+    :H: 27567
+    :SV: 6501
+    :FRP: 35734
+    :Andre: 0
+    :R: 883
+    :DEM: 86
+    :SP: 8841
+    :VIGRID: 174
+    :KSP: 201
+    :KRF: 4496
+    :KYST: 108
+  :mandates: 9
+  :name: Buskerud fylke
+12: 
+  :parties: 
+    :PP: 674
+    :NKP: 145
+    :V: 12357
+    :SALL: 240
+    :MDG: 1083
+    :A: 81602
+    :H: 54054
+    :SV: 14691
+    :FRP: 61123
+    :Andre: 0
+    :R: 6786
+    :DEM: 332
+    :SP: 14763
+    :KSP: 616
+    :KRF: 19129
+    :KYST: 335
+  :mandates: 15
+  :name: Hordaland fylke
+1: 
+  :parties: 
+    :PP: 1320
+    :V: 3740
+    :MDG: 374
+    :A: 58617
+    :H: 22052
+    :ABORT: 177
+    :SV: 6501
+    :FRP: 38860
+    :Andre: 0
+    :R: 1042
+    :DEM: 109
+    :SP: 7251
+    :KSP: 251
+    :KRF: 8589
+    :KYST: 128
+  :mandates: 9
+  :name: "Ostfold fylke"
+18: 
+  :parties: 
+    :NKP: 66
+    :V: 2961
+    :MDG: 346
+    :A: 50948
+    :SFP: 67
+    :H: 14913
+    :TPF: 64
+    :SV: 10060
+    :FRP: 31595
+    :Andre: 0
+    :R: 1832
+    :DEM: 75
+    :SP: 10749
+    :KSP: 222
+    :KRF: 4778
+    :KYST: 1140
+  :mandates: 10
+  :name: Nordland fylke
+7: 
+  :parties: 
+    :PP: 522
+    :V: 3944
+    :MDG: 495
+    :A: 44221
+    :H: 25745
+    :SV: 8504
+    :FRP: 35679
+    :Andre: 0
+    :R: 848
+    :DEM: 106
+    :SP: 4258
+    :KSP: 298
+    :KRF: 6166
+    :NPAT: 184
+    :KYST: 139
+  :mandates: 7
+  :name: Vestfold fylke
+2: 
+  :parties: 
+    :PP: 1594
+    :V: 14690
+    :MDG: 1180
+    :A: 101241
+    :H: 69500
+    :SV: 17037
+    :FRP: 73303
+    :Andre: 0
+    :R: 2563
+    :DEM: 164
+    :ES: 107
+    :SP: 9436
+    :KSP: 307
+    :KRF: 9309
+    :KYST: 153
+  :mandates: 16
+  :name: Akershus fylke
+19: 
+  :parties: 
+    :NKP: 70
+    :V: 2150
+    :MDG: 255
+    :A: 30923
+    :H: 10825
+    :SV: 6265
+    :FRP: 21194
+    :Andre: 0
+    :R: 1242
+    :DEM: 49
+    :SP: 7008
+    :KSP: 151
+    :KRF: 3039
+    :KYST: 950
+  :mandates: 7
+  :name: Troms fylke
+8: 
+  :parties: 
+    :PP: 347
+    :V: 2372
+    :MDG: 239
+    :A: 39268
+    :H: 12401
+    :SV: 5008
+    :FRP: 21703
+    :Andre: 0
+    :R: 1146
+    :DEM: 70
+    :SP: 5173
+    :KSP: 239
+    :KRF: 6239
+    :KYST: 61
+  :mandates: 6
+  :name: Telemark fylke
+14: 
+  :parties: 
+    :V: 1953
+    :MDG: 110
+    :A: 17383
+    :H: 7107
+    :SV: 3418
+    :FRP: 9291
+    :Andre: 0
+    :R: 540
+    :DEM: 28
+    :SP: 14789
+    :KRF: 3983
+    :KYST: 124
+  :mandates: 5
+  :name: Sogn og Fjordane fylke
+3: 
+  :parties: 
+    :PP: 1146
+    :NKP: 115
+    :V: 20784
+    :MDG: 1828
+    :A: 113103
+    :SFP: 72
+    :H: 69999
+    :SV: 33205
+    :NRA: 54
+    :FRP: 56953
+    :Andre: 0
+    :R: 12917
+    :SAMT: 264
+    :DEM: 157
+    :SP: 3126
+    :KSP: 292
+    :DLF: 170
+    :KRF: 8786
+    :KYST: 145
+  :mandates: 17
+  :name: Oslo fylke
+20: 
+  :parties: 
+    :V: 857
+    :MDG: 77
+    :A: 16970
+    :H: 3981
+    :SV: 3005
+    :FRP: 8289
+    :Andre: 0
+    :R: 302
+    :DEM: 27
+    :SP: 1625
+    :KSP: 164
+    :KRF: 1041
+    :KYST: 983
+  :mandates: 5
+  :name: Finnmark fylke
+9: 
+  :parties: 
+    :PP: 303
+    :V: 2050
+    :MDG: 147
+    :A: 19376
+    :H: 9714
+    :SV: 2587
+    :FRP: 15536
+    :Andre: 0
+    :R: 377
+    :DEM: 46
+    :SP: 2609
+    :KSP: 161
+    :KRF: 6663
+    :KYST: 32
+  :mandates: 4
+  :name: Aust-Agder fylke
+15: 
+  :parties: 
+    :V: 5298
+    :MDG: 196
+    :A: 42639
+    :H: 22363
+    :SV: 5269
+    :FRP: 37843
+    :Andre: 0
+    :R: 653
+    :DEM: 74
+    :SP: 11874
+    :KSP: 482
+    :KRF: 11716
+    :KYST: 225
+  :mandates: 9
+  :name: "More og Romsdal fylke"
+4: 
+  :parties: 
+    :PP: 2119
+    :V: 2650
+    :MDG: 347
+    :A: 50848
+    :H: 10993
+    :SV: 7077
+    :FRP: 19325
+    :Andre: 0
+    :R: 630
+    :DEM: 75
+    :SP: 11096
+    :DLF: 58
+    :KRF: 2652
+    :KYST: 86
+  :mandates: 8
+  :name: Hedmark fylke
+10: 
+  :parties: 
+    :PP: 624
+    :NKP: 34
+    :V: 2877
+    :MDG: 322
+    :A: 24456
+    :H: 16211
+    :SV: 3647
+    :FRP: 25303
+    :Andre: 0
+    :R: 428
+    :DEM: 460
+    :SP: 3295
+    :KSP: 312
+    :KRF: 14346
+    :KYST: 78
+  :mandates: 6
+  :name: Vest-Agder fylke

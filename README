@@ -1,0 +1,14 @@
+Celulitt README
+
+Celulitt is Norwegian election results calculation for the rest of us. That is:
+those of us who won't pay for NSD's "Celius". Or those of us who enjoy
+controlling the media's use of Celius.
+
+The data/ directory contains example data, namely the results of the 2009
+election. The file is in YAML format. This makes it easy to load, modify
+programatically and save data, for instance to simulate changes in the vote
+or the district structure. YAML is also easy to modify directly as text files.
+
+Celulitt is licensed according to the GPL version 3.0. See LICENSE for details.
+
+Celulitt is written by Sigve Indregard <sigve.indregard@gmail.com>.
