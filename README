@@ -9,6 +9,19 @@ election. The file is in YAML format. This makes it easy to load, modify
 programatically and save data, for instance to simulate changes in the vote
 or the district structure. YAML is also easy to modify directly as text files.
 
+To use celulitt, you need Ruport. Install it:
+  gem install ruport -y
+
+For Mac OS X, Ubuntu and others, you need to add "sudo":
+  sudo gem install ruport -y
+
+To calculate the winners of an election, execute "valg.rb" with a given data
+file, for instance:
+
+  ./valg.rb data/valg2009.yaml
+
+Other options are available; try ./valg.rb --help for information.
+
 Celulitt is licensed according to the GPL version 3.0. See LICENSE for details.
 
 Celulitt is written by Sigve Indregard <sigve.indregard@gmail.com>.
