@@ -69,7 +69,11 @@ class Election
 
 	# Returns a CandidateCollection with the district mandate winners
 	def district_winners
-		winners = districts.map{|dist| dist.winners}.inject(CandidateCollection.new){|coll,item| coll = coll + item} 
+		districts.map do |dist| 
+			dist.winners
+		end.inject(CandidateCollection.new) do |coll,item| 
+			coll = coll + item
+		end	
 	end
 
 	# Returns a CandidateCollection of utjevningsmandater. Grunnloven § 59
@@ -102,9 +106,7 @@ class Election
 			end
 		end	
 
-		# The final winners; by party
-		winners = Hash[winners_election(eligible2, remaining_mnd).count_by_party.select{|k,v| v > 0}]
-
+		# The final winners; by party. Remove parties with 0 won mandates.
 		winners = Hash[
 			winners_election(eligible2, remaining_mnd).count_by_party.map do |party, mandates|
 				[party, mandates - dst_mandates[party]]
